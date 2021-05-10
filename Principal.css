@@ -1,0 +1,180 @@
+@import url('https://www.bing.com/images/blob?bcid=TlDtvvOEkbcCCaT0CbCBV2XAkBVw.....1I');
+
+body {
+
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    background: #FFFFFF;
+    font-family: Share;
+    font-size: large;
+    height: 1024px;
+
+}
+
+main {
+    margin-top: 10px;
+}
+
+nav#mainNav {
+    padding: 35px 50px;
+}
+
+section#mainSection {
+    align-items: center;
+    align-content: center;
+    margin-top: 3rem;
+}
+
+.entrarBtn {
+    color: white;
+    width: 180px;
+    height: 49px;
+    left: 1122px;
+    top: 52px;
+    background: #B52727;
+    border-radius: 0px 20px 20px 0px;
+}
+
+/* parte do lado direito após nav */
+#ciaIdea {
+    padding-top: 1rem;
+}
+
+#ciaIdea>p {
+    text-align: justify;
+}
+
+#ciaIdea-strong-description {
+    font-weight: bold;
+    font-size: 39.344px;
+    line-height: 44px;
+    text-align: center;
+    text-indent: 5.24587px;
+}
+
+
+.ciaIdea-form {
+    padding: 2.5rem 0;
+}
+
+.ciaIdea-form>input {
+    border-radius: 15px;
+    border-color: black;
+    border-style: solid;
+    border-width: .5ch;
+}
+
+.btnSearch {
+    position: absolute;
+    border: none;
+    margin-top: -0px;
+}
+
+.container-acess {
+    position: absolute;
+    width: 450px;
+    left: -225px;
+    height: 123px;
+    top: 800px;
+    background: #2E2E32;
+    border-radius: 30px 30px 30px 30px;
+}
+
+.container-with {
+    /* Acesse como: */
+
+
+    position: absolute;
+    width: 400px;
+    height: 55px;
+    left: 35px;
+    top: 20px;
+
+    font-family: Share;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 72px;
+    text-align: center;
+
+    color: #ffffff;
+
+}
+
+.container-page2 {
+    position: absolute;
+    top: 1024px;
+    width: 0 auto;
+    height: 1024px ;
+}
+
+.container-lojista {
+    margin: 0px;
+    position: absolute;
+    width: -208.11px;
+    height: -56.76px;
+    left: -370px;
+    top: 50px;
+
+    font-family: Share;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 63.7277px;
+    line-height: 72px;
+    text-align: center;
+    color: #B52727;
+}
+
+.container-Cliente {
+    margin: 0px;
+    position: absolute;
+    width: -208.11px;
+    height: -56.76px;
+    left: 250px;
+    top: 50px;
+    font-weight: bold;
+
+    font-family: Share;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 63.7277px;
+    line-height: 72px;
+    text-align: center;
+    color: #B52727;
+    
+}
+
+.lojista-descrition {
+    position: absolute;
+    width: -570px;
+    height: 529.74px;
+    left: -570px;
+    top: 150px;
+
+    font-family: Share;
+    font-style: normal;
+
+    font-size: 40px;
+    line-height: 65px;
+
+    color: #2E2E32;
+
+}
+
+.cliente-descrition {
+    position: absolute;
+    width: 467px;
+    height: 529.74px;
+    left: 150px;
+    top: 150px;
+    
+    font-family: Share;
+    font-style: normal;
+
+    font-size: 40px;
+    line-height: 65px;
+    
+    color: #2E2E32;
+}
+
